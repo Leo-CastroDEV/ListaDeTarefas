@@ -1,4 +1,4 @@
-﻿# 📋 Lista de Tarefas  
+# 📋 Lista de Tarefas  
 
 Aplicação web de **Lista de Tarefas (To-Do List)** desenvolvida com **HTML, CSS, JavaScript (frontend)** e **Node.js + Express + MySQL (backend)**.  
 Permite **criar, editar, excluir e visualizar tarefas**, com interface moderna e responsiva.  
@@ -93,7 +93,6 @@ Lista de Tarefas	Nova Tarefa
 
 🔍 Filtros de tarefas (pendentes, concluídas, todas)
 
-🌐 Deploy em Heroku / Vercel / Railway
 
 👨‍💻 Autor
 
